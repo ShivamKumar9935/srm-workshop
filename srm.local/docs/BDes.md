@@ -1,31 +1,43 @@
-# B-Des in Interior Design
+#  B-Des in Interior Design
 
-## Semester one
+---
 
-Courses Offered:
-* Introduction of 2D Graphics
-* Sciograpy
-* Basics of Perspectives
+##  Semester One
 
-## Semester two
+| Course Code | Course Title |
+|------------|-------------|
+| — | Introduction of 2D Graphics |
+| — | Sciography |
+| — | Basics of Perspectives |
 
-Courses Offered:
-* COMPUTER STUDIO -I
-* MATERIALS, CONSTRUCTION AND FINISHES 
-* INTERIOR DEISGN STUDIO – I
+---
 
-## MULTI DISCIPLINARY COURSES
+##  Semester Two
 
-Courses Offered:
-* BLOGGING AND PODCASTING
-* ART AND CRAFT
-* FABRIC DESIGNING-ORNAMENTATION, DYEING AND PRINTING
-* THEATRE ART BASICS
+| Course Code | Course Title |
+|------------|-------------|
+| — | Computer Studio – I |
+| — | Materials, Construction and Finishes |
+| — | Interior Design Studio – I |
 
-## ABILITY ENHANCEMENT COURSES
+---
 
-Courses Offered:
-* DIGITAL CONTENT WRITING
-* UNIVERSAL HUMAN VALUES-II
-* ADVANCED ENGLISH PROFICIENCY
-* PERSONAL GROWTH AND DEVELOPMENT 
+##  Multi-Disciplinary Courses
+
+| Course Category | Course Name |
+|----------------|------------|
+| MDC | Blogging and Podcasting |
+| MDC | Art and Craft |
+| MDC | Fabric Designing – Ornamentation, Dyeing & Printing |
+| MDC | Theatre Art Basics |
+
+---
+
+##  Ability Enhancement Courses
+
+| Course Category | Course Name |
+|----------------|------------|
+| AEC | Digital Content Writing |
+| AEC | Universal Human Values – II |
+| AEC | Advanced English Proficiency |
+| AEC | Personal Growth and Development |
